@@ -1,0 +1,4 @@
+[26-Feb-2021 08:59:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/science/chapter12/page1/17.php on line 162
+[05-Mar-2021 07:09:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/science/chapter12/page1/17.php on line 176
+[08-Mar-2021 06:17:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/science/chapter12/page1/17.php on line 176
+[15-Mar-2021 16:41:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/science/chapter12/page1/17.php on line 176

@@ -1,0 +1,2 @@
+[23-Feb-2021 07:42:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/science/chapter1/index/1.1.php on line 121
+[23-Feb-2021 07:43:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/science/chapter1/index/1.1.php on line 121

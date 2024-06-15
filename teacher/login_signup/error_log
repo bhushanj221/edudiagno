@@ -1,0 +1,786 @@
+[21-Aug-2020 11:53:02 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/config.php on line 10
+[21-Aug-2020 13:37:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 96
+[23-Aug-2020 11:47:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 96
+[23-Aug-2020 12:00:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 96
+[23-Aug-2020 18:41:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 96
+[23-Aug-2020 18:44:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 96
+[23-Aug-2020 18:46:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 96
+[24-Aug-2020 09:42:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 96
+[24-Aug-2020 09:42:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 96
+[24-Aug-2020 10:02:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 96
+[24-Aug-2020 10:14:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 96
+[25-Aug-2020 03:01:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 96
+[25-Aug-2020 12:39:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 96
+[25-Aug-2020 14:02:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 96
+[26-Aug-2020 00:35:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 96
+[26-Aug-2020 07:36:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 96
+[26-Aug-2020 10:17:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 96
+[26-Aug-2020 11:59:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 96
+[26-Aug-2020 11:59:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 96
+[26-Aug-2020 12:49:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 96
+[26-Aug-2020 13:23:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 96
+[27-Aug-2020 08:28:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[27-Aug-2020 16:27:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[29-Aug-2020 03:14:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[29-Aug-2020 09:47:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[30-Aug-2020 03:11:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[30-Aug-2020 08:26:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[01-Sep-2020 10:00:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[01-Sep-2020 10:47:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[03-Sep-2020 10:57:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[04-Sep-2020 07:47:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[06-Sep-2020 09:03:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[06-Sep-2020 09:05:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[07-Sep-2020 04:05:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[12-Sep-2020 02:45:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[15-Sep-2020 05:04:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[18-Sep-2020 16:55:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[20-Sep-2020 06:07:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[23-Sep-2020 08:44:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[04-Oct-2020 04:14:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[04-Oct-2020 14:49:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[08-Oct-2020 05:59:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[18-Oct-2020 16:31:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[18-Oct-2020 16:40:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[19-Oct-2020 12:03:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[19-Oct-2020 13:17:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[19-Oct-2020 13:58:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[19-Oct-2020 14:05:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[19-Oct-2020 14:09:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[19-Oct-2020 14:11:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[19-Oct-2020 14:59:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[19-Oct-2020 16:37:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[19-Oct-2020 16:40:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[19-Oct-2020 16:40:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[19-Oct-2020 18:11:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[20-Oct-2020 03:51:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[20-Oct-2020 14:15:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[20-Oct-2020 15:26:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[20-Oct-2020 17:03:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[20-Oct-2020 17:05:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[21-Oct-2020 14:01:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[22-Oct-2020 09:37:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[23-Oct-2020 04:51:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[23-Oct-2020 08:58:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[23-Oct-2020 15:38:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[23-Oct-2020 15:39:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[24-Oct-2020 08:21:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[24-Oct-2020 17:31:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[25-Oct-2020 08:30:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[25-Oct-2020 08:31:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[26-Oct-2020 06:00:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[26-Oct-2020 06:01:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[26-Oct-2020 06:15:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[26-Oct-2020 17:46:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[26-Oct-2020 17:49:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Oct-2020 06:50:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Oct-2020 06:50:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Oct-2020 06:52:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Oct-2020 06:52:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Oct-2020 06:53:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Oct-2020 06:55:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Oct-2020 06:56:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Oct-2020 06:56:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Oct-2020 06:58:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Oct-2020 06:58:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Oct-2020 06:59:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Oct-2020 06:59:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Oct-2020 07:00:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Oct-2020 07:00:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Oct-2020 07:00:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Oct-2020 07:01:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Oct-2020 07:03:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Oct-2020 07:04:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Oct-2020 07:52:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Oct-2020 10:40:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[29-Oct-2020 06:45:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[04-Nov-2020 08:39:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[04-Nov-2020 08:47:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[05-Nov-2020 06:58:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[05-Nov-2020 08:24:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[05-Nov-2020 11:30:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[10-Nov-2020 03:15:29 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php on line 83
+[10-Nov-2020 03:15:29 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php on line 83
+[10-Nov-2020 03:15:29 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php on line 83
+[10-Nov-2020 03:15:29 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php on line 83
+[10-Nov-2020 03:15:40 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php on line 83
+[10-Nov-2020 03:15:40 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php on line 83
+[10-Nov-2020 03:15:40 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php on line 83
+[10-Nov-2020 03:15:40 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php on line 83
+[10-Nov-2020 09:57:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[10-Nov-2020 12:54:51 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php on line 83
+[11-Nov-2020 04:52:18 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php on line 83
+[11-Nov-2020 07:50:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[11-Nov-2020 13:15:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[11-Nov-2020 13:15:36 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php on line 83
+[11-Nov-2020 14:15:30 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php on line 83
+[11-Nov-2020 18:29:27 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/formpage.php on line 83
+[16-Nov-2020 02:07:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[21-Nov-2020 03:45:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[24-Nov-2020 09:59:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[24-Nov-2020 10:32:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[25-Nov-2020 07:06:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[25-Nov-2020 07:46:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[25-Nov-2020 08:49:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[25-Nov-2020 10:36:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[26-Nov-2020 08:48:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[26-Nov-2020 09:02:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[26-Nov-2020 09:04:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[26-Nov-2020 09:25:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[26-Nov-2020 10:51:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[26-Nov-2020 18:16:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[27-Nov-2020 07:21:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[27-Nov-2020 07:38:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[27-Nov-2020 12:04:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[28-Nov-2020 09:45:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[30-Nov-2020 06:21:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[30-Nov-2020 06:41:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[30-Nov-2020 08:01:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[30-Nov-2020 08:14:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[30-Nov-2020 08:43:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[30-Nov-2020 09:57:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[30-Nov-2020 17:12:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[30-Nov-2020 17:38:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[01-Dec-2020 02:55:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[01-Dec-2020 05:53:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[01-Dec-2020 07:47:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[01-Dec-2020 07:57:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[01-Dec-2020 08:23:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[01-Dec-2020 09:23:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[01-Dec-2020 09:58:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[01-Dec-2020 17:19:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[01-Dec-2020 18:06:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[01-Dec-2020 19:50:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[02-Dec-2020 09:11:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[02-Dec-2020 09:17:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[02-Dec-2020 09:20:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[02-Dec-2020 09:21:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[02-Dec-2020 09:55:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[02-Dec-2020 11:13:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[02-Dec-2020 11:51:19 UTC] PHP Notice:  Undefined index: username in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 43
+[02-Dec-2020 11:51:19 UTC] PHP Notice:  Undefined index: password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 76
+[02-Dec-2020 11:51:19 UTC] PHP Notice:  Undefined index: confirm_password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 85
+[02-Dec-2020 11:52:10 UTC] PHP Notice:  Undefined index: username in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 43
+[02-Dec-2020 11:52:10 UTC] PHP Notice:  Undefined index: password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 76
+[02-Dec-2020 11:52:10 UTC] PHP Notice:  Undefined index: confirm_password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 85
+[02-Dec-2020 11:52:17 UTC] PHP Notice:  Undefined index: username in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 43
+[02-Dec-2020 11:52:17 UTC] PHP Notice:  Undefined index: password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 76
+[02-Dec-2020 11:52:17 UTC] PHP Notice:  Undefined index: confirm_password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 85
+[02-Dec-2020 11:54:59 UTC] PHP Notice:  Undefined index: username in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 43
+[02-Dec-2020 11:54:59 UTC] PHP Notice:  Undefined index: password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 76
+[02-Dec-2020 11:54:59 UTC] PHP Notice:  Undefined index: confirm_password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 85
+[02-Dec-2020 16:31:02 UTC] PHP Notice:  Undefined index: username in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 43
+[02-Dec-2020 16:31:02 UTC] PHP Notice:  Undefined index: password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 76
+[02-Dec-2020 16:31:02 UTC] PHP Notice:  Undefined index: confirm_password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 85
+[03-Dec-2020 07:27:58 UTC] PHP Notice:  Undefined index: username in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 43
+[03-Dec-2020 07:27:58 UTC] PHP Notice:  Undefined index: password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 76
+[03-Dec-2020 07:27:58 UTC] PHP Notice:  Undefined index: confirm_password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 85
+[03-Dec-2020 07:29:04 UTC] PHP Notice:  Undefined index: username in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 43
+[03-Dec-2020 07:29:18 UTC] PHP Notice:  Undefined index: password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 76
+[03-Dec-2020 07:29:18 UTC] PHP Notice:  Undefined index: confirm_password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 85
+[03-Dec-2020 07:29:22 UTC] PHP Notice:  Undefined index: username in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 43
+[03-Dec-2020 07:29:31 UTC] PHP Notice:  Undefined index: password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 76
+[03-Dec-2020 07:29:31 UTC] PHP Notice:  Undefined index: confirm_password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 85
+[03-Dec-2020 07:32:58 UTC] PHP Notice:  Undefined index: username in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 43
+[03-Dec-2020 07:32:58 UTC] PHP Notice:  Undefined index: password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 76
+[03-Dec-2020 07:32:58 UTC] PHP Notice:  Undefined index: confirm_password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 85
+[03-Dec-2020 07:34:35 UTC] PHP Notice:  Undefined index: username in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 43
+[03-Dec-2020 07:34:35 UTC] PHP Notice:  Undefined index: password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 76
+[03-Dec-2020 07:34:35 UTC] PHP Notice:  Undefined index: confirm_password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 85
+[03-Dec-2020 07:34:52 UTC] PHP Notice:  Undefined index: username in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 43
+[03-Dec-2020 07:34:52 UTC] PHP Notice:  Undefined index: password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 76
+[03-Dec-2020 07:34:52 UTC] PHP Notice:  Undefined index: confirm_password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 85
+[03-Dec-2020 07:35:40 UTC] PHP Notice:  Undefined index: username in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 43
+[03-Dec-2020 07:35:40 UTC] PHP Notice:  Undefined index: password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 76
+[03-Dec-2020 07:35:40 UTC] PHP Notice:  Undefined index: confirm_password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 85
+[03-Dec-2020 07:37:22 UTC] PHP Notice:  Undefined index: username in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 43
+[03-Dec-2020 07:37:22 UTC] PHP Notice:  Undefined index: password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 76
+[03-Dec-2020 07:37:22 UTC] PHP Notice:  Undefined index: confirm_password in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/signup.php on line 85
+[03-Dec-2020 07:46:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[03-Dec-2020 08:03:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[03-Dec-2020 08:23:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[03-Dec-2020 08:44:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[03-Dec-2020 11:21:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[03-Dec-2020 13:37:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[03-Dec-2020 13:44:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[03-Dec-2020 14:47:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[04-Dec-2020 03:05:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[04-Dec-2020 08:39:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[04-Dec-2020 09:48:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[04-Dec-2020 09:48:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[04-Dec-2020 10:53:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[04-Dec-2020 15:56:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[05-Dec-2020 05:17:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[05-Dec-2020 06:49:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[05-Dec-2020 08:14:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[05-Dec-2020 08:29:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[05-Dec-2020 12:42:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[05-Dec-2020 12:43:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[06-Dec-2020 08:23:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[06-Dec-2020 10:47:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[06-Dec-2020 11:15:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[06-Dec-2020 14:48:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[07-Dec-2020 06:38:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[07-Dec-2020 08:22:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[07-Dec-2020 08:25:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[08-Dec-2020 05:38:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[08-Dec-2020 13:16:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[15-Dec-2020 10:22:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[18-Dec-2020 06:57:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[18-Dec-2020 08:17:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[21-Dec-2020 07:26:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[22-Dec-2020 06:20:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[31-Dec-2020 10:27:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[01-Jan-2021 03:45:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[17-Jan-2021 06:23:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/police.edudiagno.com/police/log.php on line 99
+[14-Feb-2021 19:11:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[15-Feb-2021 07:00:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[15-Feb-2021 07:12:23 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'abbuj'@'localhost' to database 'abbu' in /home/naws0uzen9oy/public_html/teacher/login_signup/config.php on line 10
+[15-Feb-2021 07:13:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/naws0uzen9oy/public_html/teacher/login_signup/config.php on line 18
+[15-Feb-2021 07:13:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in /home/naws0uzen9oy/public_html/teacher/login_signup/config.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naws0uzen9oy/public_html/teacher/login_signup/config.php on line 17
+[15-Feb-2021 07:14:20 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/naws0uzen9oy/public_html/teacher/login_signup/config.php on line 17
+[15-Feb-2021 07:21:29 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/naws0uzen9oy/public_html/teacher/login_signup/welcome.php on line 6
+[15-Feb-2021 07:21:45 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/naws0uzen9oy/public_html/teacher/login_signup/welcome.php on line 6
+[15-Feb-2021 07:34:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[15-Feb-2021 07:57:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[15-Feb-2021 08:03:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[15-Feb-2021 10:00:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[16-Feb-2021 07:46:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[16-Feb-2021 07:57:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[16-Feb-2021 08:01:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[16-Feb-2021 08:12:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[16-Feb-2021 08:47:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[16-Feb-2021 09:08:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[16-Feb-2021 09:17:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[16-Feb-2021 09:53:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[16-Feb-2021 10:04:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[16-Feb-2021 10:06:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[16-Feb-2021 10:08:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[16-Feb-2021 10:21:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[16-Feb-2021 10:25:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[16-Feb-2021 14:59:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[16-Feb-2021 15:01:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[17-Feb-2021 05:19:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[17-Feb-2021 07:59:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[17-Feb-2021 08:54:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[17-Feb-2021 08:55:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[17-Feb-2021 08:57:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[17-Feb-2021 11:06:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[18-Feb-2021 05:53:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[18-Feb-2021 06:58:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[18-Feb-2021 07:43:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[18-Feb-2021 08:54:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[18-Feb-2021 11:23:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[20-Feb-2021 06:09:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[20-Feb-2021 11:40:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[20-Feb-2021 15:15:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[21-Feb-2021 16:19:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[21-Feb-2021 18:24:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[22-Feb-2021 06:43:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[22-Feb-2021 09:29:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[23-Feb-2021 06:56:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[23-Feb-2021 06:57:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[23-Feb-2021 07:00:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[23-Feb-2021 07:43:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[23-Feb-2021 07:44:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[23-Feb-2021 07:56:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[23-Feb-2021 08:07:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[23-Feb-2021 08:22:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[23-Feb-2021 08:22:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[23-Feb-2021 08:26:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[23-Feb-2021 08:33:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[23-Feb-2021 08:48:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[23-Feb-2021 09:41:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[23-Feb-2021 09:48:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[23-Feb-2021 10:01:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[23-Feb-2021 10:08:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[23-Feb-2021 10:19:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[23-Feb-2021 10:29:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[23-Feb-2021 10:41:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[23-Feb-2021 11:29:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[24-Feb-2021 06:21:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[24-Feb-2021 06:52:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[24-Feb-2021 06:52:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[24-Feb-2021 06:58:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[24-Feb-2021 07:32:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[24-Feb-2021 08:49:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[24-Feb-2021 09:32:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[24-Feb-2021 09:52:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[24-Feb-2021 09:56:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[24-Feb-2021 10:34:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[25-Feb-2021 06:08:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[25-Feb-2021 06:34:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[25-Feb-2021 07:49:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[25-Feb-2021 07:58:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[25-Feb-2021 08:13:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[25-Feb-2021 08:59:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[25-Feb-2021 09:35:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[25-Feb-2021 09:42:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[25-Feb-2021 10:01:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[26-Feb-2021 07:33:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[26-Feb-2021 08:33:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[26-Feb-2021 08:35:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[26-Feb-2021 08:44:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[26-Feb-2021 08:47:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[26-Feb-2021 08:59:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[26-Feb-2021 09:07:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[26-Feb-2021 09:08:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[26-Feb-2021 09:40:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 99
+[26-Feb-2021 10:15:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[26-Feb-2021 10:21:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[26-Feb-2021 13:00:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[26-Feb-2021 15:03:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[26-Feb-2021 15:03:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[26-Feb-2021 15:26:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[27-Feb-2021 05:37:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[27-Feb-2021 06:01:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[27-Feb-2021 06:48:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[27-Feb-2021 07:38:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[27-Feb-2021 10:10:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[27-Feb-2021 11:19:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[27-Feb-2021 11:20:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Mar-2021 04:59:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Mar-2021 05:01:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Mar-2021 05:48:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Mar-2021 06:05:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Mar-2021 07:21:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Mar-2021 07:24:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Mar-2021 08:24:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Mar-2021 09:25:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Mar-2021 10:08:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Mar-2021 08:37:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Mar-2021 10:14:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Mar-2021 10:26:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Mar-2021 11:05:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[03-Mar-2021 07:56:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[03-Mar-2021 08:18:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[03-Mar-2021 13:18:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[04-Mar-2021 06:35:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[04-Mar-2021 06:53:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[04-Mar-2021 07:06:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[04-Mar-2021 09:29:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[04-Mar-2021 09:35:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Mar-2021 03:34:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Mar-2021 05:44:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Mar-2021 06:10:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Mar-2021 06:41:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Mar-2021 06:43:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Mar-2021 06:46:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Mar-2021 07:40:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Mar-2021 07:49:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Mar-2021 17:16:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[06-Mar-2021 08:27:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[07-Mar-2021 05:12:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[07-Mar-2021 16:20:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[07-Mar-2021 16:27:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[08-Mar-2021 05:44:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[08-Mar-2021 06:01:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[08-Mar-2021 08:45:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[08-Mar-2021 08:47:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[08-Mar-2021 08:54:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[08-Mar-2021 08:56:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[08-Mar-2021 09:01:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[08-Mar-2021 09:36:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[08-Mar-2021 09:37:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[08-Mar-2021 09:48:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[08-Mar-2021 11:16:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[08-Mar-2021 11:21:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[09-Mar-2021 05:32:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[09-Mar-2021 05:39:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[09-Mar-2021 07:31:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[09-Mar-2021 08:08:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[09-Mar-2021 08:09:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[09-Mar-2021 18:24:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[10-Mar-2021 06:11:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[10-Mar-2021 06:12:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[10-Mar-2021 06:44:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[10-Mar-2021 06:44:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[10-Mar-2021 08:55:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[10-Mar-2021 09:25:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[10-Mar-2021 10:04:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[10-Mar-2021 14:33:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[10-Mar-2021 15:30:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[12-Mar-2021 06:21:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[12-Mar-2021 08:46:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[12-Mar-2021 09:02:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[12-Mar-2021 09:28:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[12-Mar-2021 09:42:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[15-Mar-2021 06:22:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[15-Mar-2021 06:56:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[15-Mar-2021 07:48:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[15-Mar-2021 07:49:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[15-Mar-2021 08:22:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[15-Mar-2021 08:22:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[15-Mar-2021 11:47:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[15-Mar-2021 16:34:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[16-Mar-2021 08:43:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[16-Mar-2021 13:35:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[16-Mar-2021 14:04:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[16-Mar-2021 14:22:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[17-Mar-2021 07:38:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[17-Mar-2021 07:41:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[17-Mar-2021 07:45:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[17-Mar-2021 08:17:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[17-Mar-2021 08:21:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[17-Mar-2021 08:24:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[17-Mar-2021 08:28:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[17-Mar-2021 08:35:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[17-Mar-2021 10:12:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[18-Mar-2021 06:05:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[18-Mar-2021 06:28:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[18-Mar-2021 16:12:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[19-Mar-2021 05:03:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[21-Mar-2021 09:09:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[22-Mar-2021 04:46:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[22-Mar-2021 07:28:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[22-Mar-2021 07:35:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[22-Mar-2021 08:16:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[22-Mar-2021 08:29:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[22-Mar-2021 09:20:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[22-Mar-2021 12:21:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[22-Mar-2021 15:41:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[23-Mar-2021 08:10:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[23-Mar-2021 08:29:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[23-Mar-2021 08:53:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[24-Mar-2021 08:16:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[24-Mar-2021 08:51:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[24-Mar-2021 09:39:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[24-Mar-2021 11:39:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[25-Mar-2021 05:27:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[25-Mar-2021 06:12:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[25-Mar-2021 06:15:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[25-Mar-2021 06:38:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[25-Mar-2021 10:17:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[25-Mar-2021 10:24:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[25-Mar-2021 10:30:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[25-Mar-2021 11:01:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[25-Mar-2021 14:35:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[25-Mar-2021 14:37:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[26-Mar-2021 07:53:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[27-Mar-2021 05:09:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[27-Mar-2021 05:32:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[29-Mar-2021 21:16:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[30-Mar-2021 02:37:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[30-Mar-2021 11:18:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[30-Mar-2021 11:22:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[30-Mar-2021 11:39:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[30-Mar-2021 12:18:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[30-Mar-2021 13:49:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[30-Mar-2021 14:52:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[31-Mar-2021 04:02:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[31-Mar-2021 05:46:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[31-Mar-2021 06:58:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[31-Mar-2021 17:56:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Apr-2021 04:35:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Apr-2021 06:11:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Apr-2021 06:13:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Apr-2021 06:21:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Apr-2021 06:23:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Apr-2021 07:08:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Apr-2021 08:44:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Apr-2021 09:48:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Apr-2021 09:54:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Apr-2021 10:00:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Apr-2021 10:10:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Apr-2021 12:33:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Apr-2021 14:19:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Apr-2021 14:49:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Apr-2021 17:07:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Apr-2021 17:58:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Apr-2021 10:59:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Apr-2021 14:24:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Apr-2021 14:26:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Apr-2021 18:14:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Apr-2021 19:47:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Apr-2021 19:54:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[03-Apr-2021 08:33:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[03-Apr-2021 10:39:24 UTC] PHP Notice:  Undefined index: username in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 77
+[03-Apr-2021 10:39:24 UTC] PHP Notice:  Undefined index: password in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 84
+[04-Apr-2021 05:11:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[04-Apr-2021 16:08:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[04-Apr-2021 17:07:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Apr-2021 04:34:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Apr-2021 05:20:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Apr-2021 06:04:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Apr-2021 13:02:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Apr-2021 14:12:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Apr-2021 17:33:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Apr-2021 17:46:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[06-Apr-2021 04:27:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[06-Apr-2021 04:34:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[06-Apr-2021 04:35:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[06-Apr-2021 05:49:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[06-Apr-2021 06:25:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[07-Apr-2021 05:00:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[07-Apr-2021 08:26:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[07-Apr-2021 15:39:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[07-Apr-2021 16:24:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[07-Apr-2021 17:19:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[08-Apr-2021 13:16:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[08-Apr-2021 17:24:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[09-Apr-2021 05:33:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[09-Apr-2021 11:09:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[09-Apr-2021 12:48:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[09-Apr-2021 14:21:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[10-Apr-2021 04:22:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[10-Apr-2021 06:38:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[10-Apr-2021 15:49:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[11-Apr-2021 12:36:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[11-Apr-2021 14:51:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[12-Apr-2021 04:24:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[12-Apr-2021 08:57:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[12-Apr-2021 09:35:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[12-Apr-2021 15:03:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[13-Apr-2021 05:09:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[13-Apr-2021 06:25:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[13-Apr-2021 06:37:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[13-Apr-2021 08:26:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[13-Apr-2021 11:06:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[13-Apr-2021 11:30:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[13-Apr-2021 11:35:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[13-Apr-2021 11:52:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[13-Apr-2021 12:45:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[13-Apr-2021 12:51:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[13-Apr-2021 15:00:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[15-Apr-2021 12:36:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[16-Apr-2021 04:17:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[17-Apr-2021 03:53:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[21-Apr-2021 12:21:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[22-Apr-2021 12:37:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[22-Apr-2021 13:17:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[23-Apr-2021 11:44:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[24-Apr-2021 04:35:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[24-Apr-2021 05:45:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[24-Apr-2021 05:52:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[24-Apr-2021 06:36:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[24-Apr-2021 16:16:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[25-Apr-2021 05:37:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[27-Apr-2021 02:59:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[27-Apr-2021 12:29:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[03-May-2021 02:12:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[04-May-2021 16:27:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-May-2021 09:09:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[08-May-2021 08:56:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[14-May-2021 12:39:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[17-May-2021 17:19:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[18-May-2021 04:46:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[19-May-2021 06:30:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[19-May-2021 14:26:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[21-May-2021 05:13:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[21-May-2021 05:17:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[22-May-2021 15:58:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[24-May-2021 13:20:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[25-May-2021 06:41:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[28-May-2021 14:38:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[28-May-2021 16:54:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[28-May-2021 17:31:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[31-May-2021 05:15:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[03-Jun-2021 08:32:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[03-Jun-2021 08:39:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[03-Jun-2021 09:06:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[03-Jun-2021 11:09:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[09-Jun-2021 03:36:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[09-Jun-2021 03:38:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[13-Jun-2021 11:59:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[16-Jun-2021 12:48:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[17-Jun-2021 06:08:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[17-Jun-2021 06:14:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[17-Jun-2021 06:16:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[19-Jun-2021 12:54:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[19-Jun-2021 14:34:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[20-Jun-2021 06:38:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[21-Jun-2021 07:30:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[21-Jun-2021 10:44:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[22-Jun-2021 06:16:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[22-Jun-2021 07:28:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[23-Jun-2021 06:19:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[23-Jun-2021 06:43:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[23-Jun-2021 06:47:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[23-Jun-2021 06:51:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[24-Jun-2021 07:50:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[24-Jun-2021 08:04:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[24-Jun-2021 08:33:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[24-Jun-2021 08:48:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[24-Jun-2021 13:37:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[25-Jun-2021 05:19:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[25-Jun-2021 05:21:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[25-Jun-2021 06:17:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[25-Jun-2021 08:05:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[25-Jun-2021 11:06:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[25-Jun-2021 11:09:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[25-Jun-2021 11:33:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[26-Jun-2021 03:45:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[26-Jun-2021 03:50:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[26-Jun-2021 09:05:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[27-Jun-2021 05:58:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[27-Jun-2021 08:55:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[27-Jun-2021 09:02:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[27-Jun-2021 09:30:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[28-Jun-2021 06:48:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[28-Jun-2021 09:50:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[28-Jun-2021 09:50:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[28-Jun-2021 10:05:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[29-Jun-2021 06:36:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[29-Jun-2021 07:08:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[29-Jun-2021 08:59:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[29-Jun-2021 09:00:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[29-Jun-2021 09:03:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[29-Jun-2021 11:47:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[30-Jun-2021 06:35:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[30-Jun-2021 06:38:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[30-Jun-2021 07:08:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Jul-2021 03:52:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Jul-2021 04:26:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Jul-2021 06:03:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Jul-2021 07:40:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Jul-2021 08:06:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Jul-2021 08:07:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Jul-2021 08:24:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Jul-2021 09:34:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Jul-2021 09:35:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Jul-2021 09:48:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Jul-2021 10:01:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Jul-2021 10:03:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[01-Jul-2021 14:23:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Jul-2021 01:17:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Jul-2021 01:49:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Jul-2021 02:46:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Jul-2021 03:09:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Jul-2021 03:11:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Jul-2021 03:30:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Jul-2021 03:35:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Jul-2021 03:43:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Jul-2021 04:00:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Jul-2021 04:38:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Jul-2021 06:27:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Jul-2021 06:28:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Jul-2021 06:29:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Jul-2021 07:45:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Jul-2021 07:54:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Jul-2021 07:57:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Jul-2021 10:59:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Jul-2021 11:49:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[02-Jul-2021 16:21:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[03-Jul-2021 03:52:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[03-Jul-2021 05:17:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[03-Jul-2021 05:26:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[03-Jul-2021 06:54:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[03-Jul-2021 06:59:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[03-Jul-2021 07:23:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[03-Jul-2021 13:56:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[04-Jul-2021 07:27:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Jul-2021 09:26:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Jul-2021 10:04:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Jul-2021 10:26:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Jul-2021 11:43:56 UTC] PHP Notice:  Undefined index: username in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 77
+[05-Jul-2021 11:43:57 UTC] PHP Notice:  Undefined index: password in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 84
+[05-Jul-2021 12:59:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[05-Jul-2021 14:02:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[06-Jul-2021 10:55:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[06-Jul-2021 10:57:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[06-Jul-2021 12:05:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[06-Jul-2021 12:35:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[06-Jul-2021 12:35:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[06-Jul-2021 17:14:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[06-Jul-2021 17:50:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[07-Jul-2021 08:02:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[07-Jul-2021 08:44:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[07-Jul-2021 13:45:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[07-Jul-2021 14:06:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[07-Jul-2021 15:02:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[08-Jul-2021 04:57:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[08-Jul-2021 12:01:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[09-Jul-2021 04:17:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[09-Jul-2021 08:40:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[09-Jul-2021 10:24:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[09-Jul-2021 10:34:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[09-Jul-2021 10:37:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[10-Jul-2021 04:59:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[10-Jul-2021 05:57:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[11-Jul-2021 09:33:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[12-Jul-2021 05:46:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[13-Jul-2021 16:12:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[15-Jul-2021 15:00:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[19-Jul-2021 07:08:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[19-Jul-2021 07:10:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[19-Jul-2021 07:23:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[19-Jul-2021 08:28:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[19-Jul-2021 08:40:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[19-Jul-2021 10:12:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[19-Jul-2021 11:47:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[19-Jul-2021 13:23:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[19-Jul-2021 14:40:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[19-Jul-2021 15:04:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[19-Jul-2021 15:54:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[20-Jul-2021 07:50:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[20-Jul-2021 07:51:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[20-Jul-2021 08:37:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[20-Jul-2021 08:41:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[20-Jul-2021 08:57:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[20-Jul-2021 08:58:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[20-Jul-2021 09:34:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[20-Jul-2021 10:30:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[20-Jul-2021 10:54:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[20-Jul-2021 11:17:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[20-Jul-2021 11:33:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[20-Jul-2021 11:45:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[20-Jul-2021 11:49:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[20-Jul-2021 13:52:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[21-Jul-2021 05:49:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[21-Jul-2021 06:39:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[21-Jul-2021 06:44:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[21-Jul-2021 09:02:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[21-Jul-2021 09:06:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[21-Jul-2021 09:09:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[21-Jul-2021 09:30:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[21-Jul-2021 10:56:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[21-Jul-2021 11:16:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[22-Jul-2021 07:14:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[22-Jul-2021 08:36:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[22-Jul-2021 08:49:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[22-Jul-2021 09:44:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[22-Jul-2021 09:49:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[22-Jul-2021 14:46:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114
+[23-Jul-2021 04:26:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/naws0uzen9oy/public_html/teacher/login_signup/log.php on line 114

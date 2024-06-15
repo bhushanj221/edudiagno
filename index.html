@@ -1,0 +1,1020 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W3778TP');</script>
+<!-- End Google Tag Manager -->
+    
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>CodeAppMedia</title>
+  <meta content="" name="description">
+  <meta content="" name="Keywords">
+
+  <!-- Favicons -->
+ <link href="logo.jpg" rel="icon">
+  <link href="logo.jpg" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/line-awesome/css/line-awesome.min.css" rel="stylesheet">
+  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+
+
+
+<!-- whats app -->
+ <link rel="stylesheet" href="./whatsapp.css">
+
+
+
+
+
+
+
+<!-- whats app -->
+
+
+<!-- Vendor CSS Files  Pricing start -->
+
+
+<!--<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" >-->
+<!--<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" >-->
+<link rel="stylesheet" href="stylep.css">
+
+<!-- Vendor CSS Files  Pricing end -->
+<style type="text/css">
+  .d1{
+  position: relative;
+  display: inline-block;
+  padding: 25px 30px;
+  color: #fff;
+  font-size: 20px;
+  text-decoration: none;
+text-transform: uppercase;
+overflow: hidden;
+transition: 0.5s;
+letter-spacing: 0px;  
+-webkit-box-reflect:below 1px linear-gradient(transparent,#0005);
+ border-radius: 40px;
+}
+.d1:hover{
+  background-color:#03e9f4;
+color: #fff;
+box-shadow: 0 0 5px #03e9f4,  0 0 25px #03e9f4,0 0 50px #03e9f4,0 0 200px #03e9f4;
+text-decoration: none;
+  }
+  .d1 span{
+    position: absolute;
+    display: block;
+  }
+  .d1 span:nth-child(1)
+  {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background :linear-gradient(90deg,transparent,#FF69B4);
+animation: animate1 1s linear infinite;
+  }
+@keyframes animate1
+{
+  0%{
+    left: -100%;
+  }
+50%, 100%{
+    left:  100%;
+  }
+}
+.d1 span:nth-child(2)
+  {
+    top: -100;
+    right: 0;
+    width: 2px;
+    height: 100%;
+    background :linear-gradient(180deg,transparent,#03e9f4);
+  
+animation: animate2 1s linear infinite;
+  animation-delay: 0.25s;
+  }
+@keyframes animate2
+{
+
+  0%{
+    top: -100%;
+  }
+50%, 100%{
+    top:  100%;
+  }
+}
+.d1 span:nth-child(3)
+  {
+    bottom: 0;
+    right: -100%;
+    width: 100%;
+    height: 2px;
+    background :linear-gradient(270deg,transparent,#FF69B4);
+animation: animate3 1s linear infinite;
+  animation-delay: 0.5s;
+  }
+@keyframes animate3
+{
+  0%{
+    right: -100%;
+  }
+50%, 100%{
+    right:  100%;
+  }
+}
+.d1 span:nth-child(4)
+  {
+    bottom: -100;
+    left: 0;
+    width: 2px;
+    height: 100%;
+    background :linear-gradient(360deg,transparent,#03e9f4);
+  
+animation: animate4 1s linear infinite;
+  animation-delay: 0.75s;
+  }
+@keyframes animate4
+{
+  0%{
+    bottom: -100%;
+  }
+50%, 100%{
+    bottom:  100%;
+  }
+}
+</style>
+
+<!---------------------------------security------------------------------------------>
+
+ <!--from here-->
+ 
+        
+         <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+       <script type="text/javascript">
+    var gotitBtn = $(".gotit");
+    gotitBtn.click(function() {
+      gotitBtn.parent().css({
+        display: "none"
+      });
+    });
+    //Camera feature check
+    function hasGetUserMedia() {
+      return !!(navigator.getUserMedia || navigator.webkitGetUserMedia ||
+        navigator.mozGetUserMedia || navigator.msGetUserMedia);
+    }
+    if (hasGetUserMedia()) {
+      $('#splashScreen').css('display', 'block');
+    }
+    
+    $(document).bind("contextmenu",function(e) {
+ e.preventDefault();
+});
+
+
+
+    $(document).keydown(function(e){
+    if(e.which === 123){
+       return false;
+    }
+});
+
+
+document.onkeydown = function (e) {
+    e = e || window.event;//Get event
+    if (e.ctrlKey) {
+        var c = e.which || e.keyCode;//Get key code
+        switch (c) {
+            case 83://Block Ctrl+S
+                e.preventDefault();     
+                e.stopPropagation();
+            break;
+        }
+    }
+};  
+  </script>
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!---------------------------------d2 class------------------------------------------->
+
+
+
+<style type="text/css">
+  .d2{
+  position: relative;
+  display: inline-block;
+  padding: 25px 30px;
+  
+  color: red;/*#03e9f4;*/
+  font-size: 15px;
+  text-decoration: none;
+text-transform: uppercase;
+overflow: hidden;
+transition: 0.5s;
+letter-spacing: 0px;  
+border-radius: 0px;
+
+
+/*-webkit-box-reflect:below 1px linear-gradient(transparent,#0005);*/
+}
+
+
+
+.d2:hover{
+  background-color:#fbab60;
+color: #fff;
+/*box-shadow: 0 0 5px #03e9f4,  0 0 25px #03e9f4,0 0 50px #03e9f4,0 0 200px #03e9f4;*/
+text-decoration: none;
+border-radius: 50px;
+padding-top: 20px;
+  }
+
+  .d2 span{
+    position: absolute;
+    display: block;
+  }
+
+
+  .d2 span:nth-child(1)
+  {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background :linear-gradient(90deg,transparent,#FF69B4);
+  
+animation: animate1 1s linear infinite;
+  }
+
+
+@keyframes animate1
+{
+
+
+  0%{
+    left: -100%;
+  }
+
+
+50%, 100%{
+    left:  100%;
+  }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.d2 span:nth-child(2)
+  {
+    top: -100;
+    right: 0;
+    width: 2px;
+    height: 100%;
+    background :linear-gradient(180deg,transparent,#FF69B4);
+  
+animation: animate2 1s linear infinite;
+  animation-delay: 0.25s;
+  }
+
+
+@keyframes animate2
+{
+
+
+  0%{
+    top: -100%;
+  }
+
+
+50%, 100%{
+    top:  100%;
+  }
+
+
+}
+
+
+
+
+
+
+
+
+.d2 span:nth-child(3)
+  {
+    bottom: 0;
+    right: -100%;
+    width: 100%;
+    height: 2px;
+    background :linear-gradient(270deg,transparent,#FF69B4);
+  
+animation: animate3 1s linear infinite;
+  animation-delay: 0.5s;
+  }
+
+
+@keyframes animate3
+{
+
+
+  0%{
+    right: -100%;
+  }
+
+
+50%, 100%{
+    right:  100%;
+  }
+
+
+}
+
+
+
+
+
+.d2 span:nth-child(4)
+  {
+    bottom: -100;
+    left: 0;
+    width: 2px;
+    height: 100%;
+    background :linear-gradient(360deg,transparent,#FF69B4);
+  
+animation: animate4 1s linear infinite;
+  animation-delay: 0.75s;
+  }
+
+
+@keyframes animate4
+{
+
+
+  0%{
+    bottom: -100%;
+  }
+
+
+50%, 100%{
+    bottom:  100%;
+  }
+
+
+}
+
+
+
+
+
+
+@media (max-width:629px) {
+  img#optionalstuff {
+    display: none;
+  }
+}
+</style>
+
+
+
+
+
+</head>
+
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3778TP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  <!-- ======= whats app  ======= -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<a href="https://api.whatsapp.com/send?phone=+91 9860355479&text=Hello I am intrensted in coding Classes" class="float" target="_blank">
+<i class="fa fa-whatsapp my-float"></i>
+</a>
+
+
+
+
+  <!-- ======= Mobile Menu ======= -->
+  <div class="site-mobile-menu site-navbar-target">
+    <div class="site-mobile-menu-header">
+      <div class="site-mobile-menu-close mt-3">
+        <span class="icofont-close js-menu-toggle"></span>
+      </div>
+    </div>
+    <div class="site-mobile-menu-body"></div>
+  </div>
+
+  <!-- ======= Header ======= -->
+  <header class="site-navbar js-sticky-header site-navbar-target" role="banner">
+
+    <div class="container">
+      <div class="row align-items-center">
+
+        <div class="col-6 col-lg-2">
+          <h1 class="mb-0 site-logo"><a href="index.html" class="">CodeAppMedia</a></h1>
+        </div>
+
+          <div class="col-12 col-md-10 d-none d-lg-block">
+          <nav class="site-navigation position-relative text-right" role="navigation">
+            <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
+              <li class="active"><a href="index.html" class="nav-link">Home</a></li>
+              <!--<li><a href="pricing.html" class="nav-link">Pricing</a></li>-->
+              <li><a href="https://www.codeappmedia.com/learn/demo_class.html" class="nav-link">Book Free Class</a></li>
+                <li><a href="students_project.html" class="nav-link">Students Projects</a></li>
+                 <li><a href="https://www.codeappmedia.com/exam/exam.php" class="nav-link">Scholarship Test</a></li>
+              <!--<li><a href="../login_signup/signup1.php" class="nav-link">Signup</a></li>-->
+<!--<li><a href="../login_signup/log.php" class="nav-link">Login</a></li>-->
+<li><a href="student_login/log.php" class="nav-link">Login</a></li>
+
+<li><a href="https://rzp.io/l/CERQYZiee" class="nav-link">Payment</a></li>
+<!--<li><a href="ar/assets/asset.glb" class="nav-link">Download AR</a></li>-->
+
+
+<!--<li><a href="https://codeappmedia.com/teacher/login_signup/log.php" class="nav-link">AR Lab</a></li>-->
+
+
+
+ <li class="has-children">
+                <a href="#" class="nav-link">AR Lab</a>
+                <ul class="dropdown">
+                  <li><a href="https://codeappmedia.com/teacher/login_signup/log.php" class="nav-link">10th</a></li>
+                  <li><a href="ar_marker.png" download class="nav-link">Download Marker</a></li>
+                </ul>
+              </li>
+              
+              <!-- <li class="has-children">-->
+              <!--  <a href="#" class="nav-link">Login</a>-->
+              <!--  <ul class="dropdown">-->
+              <!--    <li><a href="../login_signup/log.php" class="nav-link">Free Login</a></li>-->
+              <!--    <li><a href="../subscriber_login/log.php" class="nav-link">Subscribers Login</a></li>-->
+              <!--  </ul>-->
+              <!--</li>-->
+
+
+
+
+<!--<li><a href="#" class="nav-link">CodeAppStudio</a></li>-->
+<!--<li><a href="ar_studio/pages/marker" class="nav-link">Augmented reality Studio</a></li>-->
+              <!--<li><a href="contact.html" class="nav-link">Contact</a></li>-->
+            </ul>
+          </nav>
+        </div>
+
+        <div class="col-6 d-inline-block d-lg-none ml-md-0 py-3" style="position: relative; top: 3px;">
+
+          <a href="#" class="burger site-menu-toggle js-menu-toggle" data-toggle="collapse" data-target="#main-navbar">
+            <span></span>
+          </a>
+        </div>
+
+      </div>
+    </div>
+
+  </header>
+
+  <!-- ======= Hero Section ======= -->
+  <section class="hero-section" id="hero" style="height:auto;">
+
+    <!--<div class="wave" style="height:auto;">-->
+
+    <!--  <svg width="100%" height="355px" viewBox="0 0 1920 355" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">-->
+    <!--    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">-->
+    <!--      <g id="Apple-TV" transform="translate(0.000000, -402.000000)" fill="#FFFFFF">-->
+    <!--        <path d="M0,439.134243 C175.04074,464.89273 327.944386,477.771974 458.710937,477.771974 C654.860765,477.771974 870.645295,442.632362 1205.9828,410.192501 C1429.54114,388.565926 1667.54687,411.092417 1920,477.771974 L1920,757 L1017.15166,757 L0,757 L0,439.134243 Z" id="Path"></path>-->
+    <!--      </g>-->
+    <!--    </g>-->
+    <!--  </svg>-->
+
+    <!--</div>-->
+
+    <div class="container" style="height: auto;width: auto;">
+      <div class="row align-items-center">
+        <div class="col-12 hero-text-image ">
+          <div class="row"  >
+            <div class="col-lg-7 text-center text-lg-left">
+            	
+
+              <h1 data-aos="fade-right" style="color: #f5f5f5; text-shadow: 2px 2px 4px #9400d3;"> Learn Coding in your Mother Tongue</h1>
+              <h3 style="color: white;">Fall And love with Coding</h3>
+
+              <p class="mb-5" data-aos="fade-right" data-aos-delay="100">CodeAppMedia <b>Chapter India</b>  </p>
+              
+
+              <!-- <p data-aos="fade-right" data-aos-delay="200" data-aos-offset="-500"><a href="#" class="btn btn-outline-white">Get started</a></p>
+ -->
+<a  class="d1" href="https://www.codeappmedia.com/learn/demo_class.html" style=" border-width: 29px;">
+  
+  <span></span>
+  
+  Book A Free Class
+</a>
+            </div>
+    
+            <div class="col-lg-5 iphone-wrap " >
+              <img src="" data-aos="fade-right">
+              <img src="assets/img/phone_2.png" alt="Fitness App" class="phone-2" id="optionalstuff" data-aos="fade-right" >
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    
+
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= Home Section ======= -->
+    
+    
+    
+    
+    
+        <section class="section">
+      <div class="container">
+
+        <div class="row justify-content-center text-center mb-5">
+          <div class="col-md-5" data-aos="fade-up">
+        <h2 style="color:#ff1493 ; font-size: 40px;">   No Laptop No Wories Start Learn Coding on <b>Android Mobile</b></h2>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-4" data-aos="fade-up" data-aos-delay="">
+            <div class="feature-1 text-center" >
+              <div class="wrap-icon icon-1" >
+                <span class="icon la la-users"  ></span>
+              </div>
+              <h3 class="mb-3" style="color:#ff1493">Our Team Will Guide You</h3>
+              <p style="color:#0000AA ;"><b>Our Team From India Will Guide You How To Learn In Your Mother Tounge</b> </p>
+          <!-- 
+  <p data-aos="fade-right" data-aos-delay="200" data-aos-offset="-500"><a href="#" class="btn btn-outline-white1">Get started</a></p> -->
+  
+  <a  class="d2" href="students_project.html" style="  ">
+  
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  Go To Project Side
+</a>
+
+            </div>
+          </div>
+
+
+          <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
+            <div class="feature-1 text-center">
+              <div class="wrap-icon icon-1">
+                <span class="icon la la-toggle-off"></span>
+              </div>
+              <h3 class="mb-3"  style="color:#ff1493">Host your Project</h3>
+              <p style="color: #0000AA ;"><b>Host Your Projects live To Show The World Who You Are</b></p>
+               <a  class="d2" href="students_project.html" style="  ">
+  
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  Go To Project Side
+</a>
+            </div>
+          </div>
+          <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
+            <div class="feature-1 text-center">
+              <div class="wrap-icon icon-1">
+                <span class="icon la la-umbrella"></span>
+              </div>
+              <h3 class="mb-3"  style="color:#ff1493">Design To Development</h3>
+              <p style="color: #0000AA;"><b>Start Building Software Today To Change Tomorrow</b></p>
+                        <a  class="d2" href="students_project.html" style="  ">
+  
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  Go To Project Side
+</a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+   
+   
+   <!--<section class="section" style="magrin-buttom:0px;">-->
+
+   <!--   <div class="container">-->
+   <!--     <div class="row justify-content-center text-center mb-5" data-aos="fade">-->
+   <!--       <div class="col-md-6 mb-5">-->
+   <!--         <img src="assets/img/kid1.jpg" style="border-radius: 100px;" alt="Image" class="img-fluid">-->
+   <!--       </div>-->
+   <!--     </div>-->
+
+   
+   <!--   </div>-->
+
+   <!-- </section>-->
+
+   
+   
+   
+ <section class="section">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-md-4 mr-auto"   style="margin-bottom: 40px;">
+            <h2 class="mb-4" style="color: orange; text-align: center;">Seamlessly Communicate</h2>
+            <p class="mb-4" style="text-align: center; color: #ff1493; "><b>How Augmented Reality Project done by students are used to improve technology</b></p>
+           <!--  <p><a href="#" class="btn btn-primary">Download Now</a></p> -->
+         <p style="text-align: center;">  <a  class="d2" href="https://www.codeappmedia.com/learn/demo_class.html" style="">
+  
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <b>Book A Free Class</b>
+</a></p>
+          </div>
+          <div class="col-md-6" data-aos="fade-left">
+             <img src="assets/img/im1.jpg" alt="Image" style="border-radius:90px; " class="img-fluid"> 
+<!--             <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">-->
+<!--</iframe>-->
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-md-4 ml-auto order-2">
+            <h2 class="mb-4" style="color: orange; text-align: center;">Be Smart Worker </h2>
+            <p class="mb-4" style="color: #ff1493; text-align: center;"><b>Mark  zuckerberg was in 6th grade when he started to coding. Now he is CEO of FaceBook. What about You.....   </b></p>
+           <!--  <p><a href="#" class="btn btn-primary">Download Now</a></p>-->
+           <p style="text-align: center;">  <a  class="d2" href="https://www.codeappmedia.com/learn/demo_class.html" style="">
+  
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <b>Book A Free Class</b>
+</a></p> 
+          </div>
+           <div class="col-md-6" data-aos="fade-right">
+            <img src="assets/img/4.jpg" alt="Image" class="img-fluid" style="border-radius: 90px;">
+          </div>
+        <!--  <img src="assets/img/4.jpg" alt="Image" style="border-radius: 100px;" class="img-fluid"> -->
+
+        </div>
+      </div>
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- ======= FeatPricingures Section start ======= -->
+<h1 style=" color: white;
+  text-shadow: 1px 1px 2px red, 0 0 25px red, 0 0 5px red; text-align: center;"> Our Latest Courses</h1>
+  <br><br>
+<section style="height: auto;width: auto;">
+    <div class="container-fluid">
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-4" style="margin-bottom: 70px;">
+          <div class="card text-center">
+            <div class="title">
+                	<h1 style="color: white;">Winners</h1>
+              <i class="fa fa-paper-plane" aria-hidden="true"></i>
+              <h2><b>LEARN HTML and CSS  </b></h2>
+            </div>
+            
+           
+
+            <div class="option">
+              <ul>
+<br>
+              <li> <h3 style="color: #fff;"></h3></li>
+
+              <li> <i class="fa fa-check" aria-hidden="true"></i> Introduction to Web </li>
+              <li> <i class="fa fa-check" aria-hidden="true"></i> Concepts and Tricks </li>
+              <li> <i class="fa fa-check" aria-hidden="true"></i> Special Coding Environment </li>
+                            <li> <i class="fa fa-check" aria-hidden="true"></i> Lifetime Access to Login </li>
+                              
+              <li> <i class="fa fa-check" aria-hidden="true"></i> Lifetime Free Workshop  </li>
+              <li> <i class="fa fa-check" aria-hidden="true"></i><b>Development of AR Application</b></li>
+                <li> <i class="fa fa-check" aria-hidden="true"></i> <b>Eligible to CodeAppMedia National level Web development Hackthon</b>   </li>
+               
+                <li> <i class="fa fa-check" aria-hidden="true"></i> <b>Duration 8 days</b>   </li>
+              </ul>
+            </div>
+           
+           <div class="price">
+              <!--<h4>1,999</h4>-->
+            </div>
+             <a href="https://www.codeappmedia.com/exam/exam.php">Scholarship Test </a>
+           <div class="titleend" >
+            </div>
+          </div>
+        </div>
+        <!-- END Col one -->
+        <div class="col-sm-4" style="margin-bottom: 70px;">
+          <div class="card text-center">
+            <div class="title">
+            	<h1 style="color: white;">Leaders</h1>
+              <i class="fa fa-rocket" aria-hidden="true"></i>
+              <h2>LEARN HTML, CSS,  JAVASCRIPT AND PYTHON</h2>
+            </div>
+           
+            <div class="option">
+              <ul><br>
+              <li> <i class="fa fa-check" aria-hidden="true"></i> Full <b>Champians Course</b></li>
+              <li> <i class="fa fa-check" aria-hidden="true"></i>Full<b> Winners Course</b></li>
+               <li> <i class="fa fa-check" aria-hidden="true"></i> Development of AR Application</li>
+
+              <li> <i class="fa fa-check" aria-hidden="true"></i>  Lifetime Access to Login </li>
+              <li> <i class="fa fa-check" aria-hidden="true"></i> Practice on Our Coding Environment </li>
+              <li> <i style="color:orange" ></i> This course will containts both Champains and Winner Course along with Augmentes Reality Development  and preferred by Most CodeAppMedia Students</li>
+                    <li> <i class="fa fa-check" aria-hidden="true"></i> <b>Duration 18 days</b>   </li>
+              <!--<li> <i class="fa fa-check" aria-hidden="true"></i> Introduction to Web </li>-->
+              </ul>
+            </div>
+             <div class="price">
+              <!--<h4>2,999</h4>-->
+            </div>
+            <a href="https://www.codeappmedia.com/exam/exam.php">Scholarship Test </a>
+          </div>
+        </div>
+        <!-- END Col two -->
+        <div class="col-sm-4" style="margin-bottom: 70px;">
+          <div class="card text-center">
+            <div class="title">
+            	<h1 style="color: white;">Champions</h1>
+                
+              <i class="fa fa-plane" aria-hidden="true"></i>
+              <h2>Learn python</h2>
+            </div>
+          
+            <div class="option">
+              <ul>
+                  <br><br>
+              <li> <i class="fa fa-check" aria-hidden="true"></i> Introduction to Python</li>
+              <li> <i class="fa fa-check" aria-hidden="true"></i> Concepts and Tricks </li>
+              <li> <i class="fa fa-check" aria-hidden="true"></i> Special Coding Environment </li>
+             
+              <li> <i class="fa fa-check" aria-hidden="true"></i>  Lifetime Access to Login </li>
+              
+                 <li> <i class="fa fa-check" aria-hidden="true"></i> Access to AR Environment </li>
+                    <li> <i class="fa fa-check" aria-hidden="true"></i>   Lifetime Free Workshop </li>
+                           <li> <i class="fa fa-check" aria-hidden="true"></i> <b>Eligible to CodeAppMedia National level Web development Hackthon</b>   </li>
+                                <li> <i class="fa fa-check" aria-hidden="true"></i> <b>Duration 8 days</b>   </li>
+              </ul>
+            </div>
+              <div class="price">
+              <!--<h4>1,999</h4>-->
+            </div>
+              <a href="https://www.codeappmedia.com/exam/exam.php">Scholarship Test </a>
+          </div>
+        </div>
+        <!-- END Col three -->
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ======= FeatPricingures Section end ======= -->
+
+
+
+
+
+
+
+
+
+
+ <!-- ======= Testimonials Section ======= -->
+    <section class="section border-top border-bottom" style="height:auto;">
+      <div class="container">
+        <div class="row justify-content-center text-center mb-5">
+          <div class="col-md-4">
+            <h1 style=" color: white;
+  text-shadow: 1px 1px 2px red, 0 0 25px red, 0 0 5px red; text-align: center;"> Review From Our Users</h1>
+          </div>
+        </div>
+        <div class="row justify-content-center text-center">
+          <div class="col-md-7">
+            <div class="owl-carousel testimonial-carousel">
+              <div class="review text-center">
+               
+                <h3>Excellent App!</h3>
+                <blockquote>
+                  <p>Best Coding Platform to learn Coding for School and college Students. Very Nice Teacher with simple and nice explanation 
+                  </p>
+                </blockquote>
+
+                <p class="review-user">
+                  <!--<img src="assets/img/person_1.jpg" alt="Image" class="img-fluid rounded-circle mb-3">-->
+                  <span class="d-block">
+                    <span class="text-black">Gauri Pande</span> &mdash; CodeAppMedia Student Roll No. 10111 
+                  </span>
+                </p>
+
+              </div>
+
+              <div class="review text-center">
+                
+                <h3>CodeAppMedia  is easy to use on Mobile as well as on Laptop!</h3>
+                <blockquote>
+                  <p>I have Learn HTML and CSS as well as Augmented Reality Web Application on CodeAppMedia.</p>
+                </blockquote>
+
+                <p class="review-user">
+                  <!--<img src="assets/img/person_2.jpg" alt="Image" class="img-fluid rounded-circle mb-3">-->
+                  <span class="d-block">
+                    <span class="text-black">Ved Deshpande</span> &mdash; CodeAppMedia Student Roll No. 10112 
+                  </span>
+                </p>
+
+              </div>
+
+              <div class="review text-center">
+               
+                <h3>Awesome Mentor Support!</h3>
+                <blockquote>
+                  <p>Doubt solving is too easy with CodeAppMedia. it helped me a lot and I proved myself among my friends.</p>
+                </blockquote>
+
+                <p class="review-user">
+                  <!--<img src="assets/img/person_3.jpg" alt="Image" class="img-fluid rounded-circle mb-3">-->
+                  <span class="d-block">
+                    <span class="text-black">Shubam Wagh</span> &mdash; CodeAppMedia Student Roll No. 10113 
+                  </span>
+                </p>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section><!-- End Testimonials Section -->
+
+<br><br>
+    <!-- ======= CTA Section ======= -->
+<!--<section class="section cta-section" style=:height:auto;>-->
+<!--      <div class="container">-->
+<!--        <div class="row align-items-center">-->
+<!--          <div class="col-md-6 mr-auto text-center text-md-left mb-5 mb-md-0">-->
+<!--            <h2 >Starts Publishing Your Web Projects on AppCode</h2>-->
+<!--          </div>-->
+<!--          <div class="col-md-5 text-center text-md-right">-->
+<!--        <p><a href="#" class="b1"><span class="icofont-ui-play mr-3"></span>CodeAppMedia</a></p>-->
+<!--          </div>-->
+<!--        </div>-->
+<!--      </div>-->
+<!--    </section><!-- End CTA Section -->
+
+  </main><!-- End #main -->
+
+  
+  <!-- ======= Footer ======= -->
+  <footer class="footer" role="contentinfo">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 mb-4 mb-md-0">
+        <b> <h3>About CodeAppMedia</h3></b> 
+          <b><p style="color:#5B01F7;">CodeAppMedia is India's First ever Programming Platform which is responsible to provide online programming Classes with live streaming by using laptop as well as from <b style="color:red"> Mobile</b>  .</p></b>
+          <p class="social">
+            <!--<a href="#"><span class="icofont-twitter"></span></a>-->
+            <!--<a href="#"><span class="icofont-facebook"></span></a>-->
+            <!--<a href="#"><span class="icofont-dribbble"></span></a>-->
+            <!--<a href="#"><span class="icofont-behance"></span></a>-->
+          </p>
+        </div>
+        <div class="col-md-7 ml-auto">
+          <div class="row site-section pt-0">
+            <div class="col-md-4 mb-4 mb-md-0">
+             <!--  <h3>Navigation</h3>
+              <ul class="list-unstyled">
+                <li><a href="#">Pricing</a></li>
+                <li><a href="#">Features</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Contact</a></li>
+              </ul> -->
+            </div>
+            <div class="col-md-4 mb-4 mb-md-0">
+             <!--  <h3>Services</h3>
+              <ul class="list-unstyled">
+                <li><a href="#">Team</a></li>
+                <li><a href="#">Collaboration</a></li>
+                <li><a href="#">Todos</a></li>
+                <li><a href="#">Events</a></li>
+              </ul> -->
+            </div>
+            <div class="col-md-4 mb-4 mb-md-0">
+              <!-- <h3>Downloads</h3>
+              <ul class="list-unstyled">
+                <li><a href="#">Get from the App Store</a></li>
+                <li><a href="#">Get from the Play Store</a></li>
+              </ul> -->
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row justify-content-center text-center">
+        <div class="col-md-7">
+          <p class="copyright">&copy; Copyright  CodeAppMedia. All Rights Reserved</p>
+          <div class="credits">
+            <!--
+            All the links in the footer should remain intact.
+            You can delete the links only if you purchased the pro version.
+            Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=SoftLand
+          -->
+            Designed by <a href=""> CodeAppMedia</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </footer>
+
+  <!--<a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>-->
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="assets/vendor/jquery-sticky/jquery.sticky.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>

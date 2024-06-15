@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@600&display=swap");
+body {
+  max-width: 500px;
+  margin: 0 auto;
+  font-family: "Manrope", system-ui, sans-serif;
+  line-height: 1.6;
+  padding: 1rem;
+}
+
+
+ol {
+  list-style: none;
+  counter-reset: steps;
+}
+ol li {
+  counter-increment: steps;
+}
+ol li::before {
+  content: counter(steps);
+  margin-right: 0.5rem;
+  background: #ff6f00;
+  color: white;
+  width: 1.2em;
+  height: 1.2em;
+  border-radius: 50%;
+  display: inline-grid;
+  place-items: center;
+  line-height: 1.2em;
+}
+ol ol li::before {
+  background: darkorchid ;
+}
